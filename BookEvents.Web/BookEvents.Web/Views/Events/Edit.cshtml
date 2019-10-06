@@ -1,0 +1,20 @@
+﻿@model BookEvents.Web.Models.EventInputModel
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+
+@Html.Partial("_EventEditorForm")
+
+
+
+@section scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    @Scripts.Render("~/bundles/bootstrap-datetimepicker")
+}
+
+@section styles {
+    @Styles.Render("~/Content/bootstrap-datetimepicker")
+}

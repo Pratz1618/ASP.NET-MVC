@@ -1,0 +1,16 @@
+D:\Copy Project\BookEvents.Web\BookEvents.Data\bin\Debug\BookEvents.Data.dll.config
+D:\Copy Project\BookEvents.Web\BookEvents.Data\bin\Debug\BookEvents.Data.dll
+D:\Copy Project\BookEvents.Web\BookEvents.Data\bin\Debug\BookEvents.Data.pdb
+D:\Copy Project\BookEvents.Web\BookEvents.Data\bin\Debug\EntityFramework.dll
+D:\Copy Project\BookEvents.Web\BookEvents.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Copy Project\BookEvents.Web\BookEvents.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Copy Project\BookEvents.Web\BookEvents.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Copy Project\BookEvents.Web\BookEvents.Data\bin\Debug\EntityFramework.xml
+D:\Copy Project\BookEvents.Web\BookEvents.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Copy Project\BookEvents.Web\BookEvents.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Copy Project\BookEvents.Web\BookEvents.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Copy Project\BookEvents.Web\BookEvents.Data\obj\Debug\BookEvents.Data.csprojAssemblyReference.cache
+D:\Copy Project\BookEvents.Web\BookEvents.Data\obj\Debug\BookEvents.Data.csproj.CoreCompileInputs.cache
+D:\Copy Project\BookEvents.Web\BookEvents.Data\obj\Debug\BookEvents.Data.csproj.CopyComplete
+D:\Copy Project\BookEvents.Web\BookEvents.Data\obj\Debug\BookEvents.Data.dll
+D:\Copy Project\BookEvents.Web\BookEvents.Data\obj\Debug\BookEvents.Data.pdb
